@@ -5,3 +5,6 @@
 link for api key --> "https://aistudio.google.com/app/apikey"
 '
 ## step 4 : run the PDF_READER.py file using "streamlit run "PDF_READER.py " (because we are using streamlit GUI)
+
+
+![Uploading image.png…]()
